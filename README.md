@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Fix docker.yaml double-quote version bug (#7452)
