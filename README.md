@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
