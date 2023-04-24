@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Update pyproject.toml and Docs (#7274)
