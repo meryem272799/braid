@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Explorer with LanceDB, Actions and Docs updates (#7487)
