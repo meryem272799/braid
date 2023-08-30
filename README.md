@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Bounding Box to OBB conversion (#7572)
