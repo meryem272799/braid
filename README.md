@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Allow Annotator PIL.Image inputs (#8397)
