@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
