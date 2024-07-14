@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
