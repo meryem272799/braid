@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Auto-format by https://ultralytics.com/actions
