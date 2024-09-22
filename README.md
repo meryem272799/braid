@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
