@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Fix TFLite INT8 for OBB (#7989)
