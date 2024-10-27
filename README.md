@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add OBB benchmarks to CI (#7777)
