@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Update mkdocs.yml (#7693)
